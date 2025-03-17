@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vGA6bcghUvs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abudl\\source\\repos\\أدارة المزانية3\\أدارة المزانية3\\أدارة المزانية3.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abudl\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\abudl\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.3\\system.configuration.configurationmanager.9.0.3.nupkg.sha512",
+    "C:\\Users\\abudl\\.nuget\\packages\\system.data.oledb\\9.0.3\\system.data.oledb.9.0.3.nupkg.sha512",
+    "C:\\Users\\abudl\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.3\\system.diagnostics.eventlog.9.0.3.nupkg.sha512",
+    "C:\\Users\\abudl\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.3\\system.diagnostics.performancecounter.9.0.3.nupkg.sha512",
+    "C:\\Users\\abudl\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.3\\system.security.cryptography.protecteddata.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
